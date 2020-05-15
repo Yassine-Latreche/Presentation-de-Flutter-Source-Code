@@ -55,7 +55,7 @@ class _CommentCOneState extends State<CommentCOne> {
                             height: 30,
                           ),
                           SimpleText(
-                            text: 'Stateless Widgets: des widgets qui ne changeront pas pendant l\'éxecution du code (Text, Image, Icon ...)',
+                            text: 'Les types des Widgets:',
                             textAlign: TextAlign.left,
                             color: gray,
                           ),SizedBox(
