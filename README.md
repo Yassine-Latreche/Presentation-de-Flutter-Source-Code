@@ -4,7 +4,7 @@ This is a Flutter presentation written in French, made using Flutter!
 
 To view the final Presentation, check out the following link:
 
- - [Final Presentation](https://yassine-latreche.github.io/Flutter-Presentation-Using-Flutter/)
+ - [Final Presentation](https://yassine-latreche.github.io/Presentation-de-Flutter-Web/)
 
  ``` This Presentation is meant to be built for the web. ```
 
